@@ -1,0 +1,5 @@
+def modpow(base, exponent, modulus):
+'''
+Takes three inputs, need to be numbers and computes something
+'''
+base ** exponent % modulus
